@@ -4,7 +4,7 @@ class Main:
         pass
 
     def main(self):
-        pass
+        print("Welcome to Sword Game")
 
 
 if __name__ == '__main__':
